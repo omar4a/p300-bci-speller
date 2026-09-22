@@ -34,7 +34,7 @@ uv run python realtime_inference.py
 LLM completion needs an `OPENAI_API_KEY` (or a compatible endpoint) in `.env`.
 
 ## Context
-Built for **NeuroTech ASU** (the NeuroTechX chapter I founded), following the g.tec BCI Spring School 2026 / BR41N.IO hackathon.
+Built for **NeuroTech ASU**, the NeuroTechX chapter I founded.
 
 ## Tech
 `Python` · `PsychoPy` · `pylsl` · `pyRiemann` (xDAWN, MDM) · `scikit-learn` · `asrpy` · `MNE` · `SciPy` · `asyncio` · OpenAI-compatible API
